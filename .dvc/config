@@ -1,0 +1,4 @@
+[core]
+    remote = localstorage
+['remote "localstorage"']
+    url = C:\Users\Abdulaziz\Desktop\10 Academy\local_storage
